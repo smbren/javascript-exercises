@@ -79,5 +79,7 @@ You can also run Jest in watch mode by adding `--watch` flag.
 
 - [Reverse String](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/ReverseString/index.js)
 - [Palindrome](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/Palindrome/index.js)
+- [Reverse Integer](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/ReverseInteger/index.js)
+- [Max Char](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/MaxChar/index.js)
 
 
