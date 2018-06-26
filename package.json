@@ -1,6 +1,5 @@
 {
   "name": "javascript-exercises",
-  "version": "1.0.0",
-  "description": "Collection of JavaScript exerises great for preparing for an interview",
-  "author": "Adam Pałaszyński"
+  "description": "Collection of JavaScript exercises great for preparing for an interview",
+  "author": "appalaszynski"
 }
