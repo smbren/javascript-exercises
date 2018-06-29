@@ -1,14 +1,14 @@
-// 1.
+// 1
 const reverse = (str) => {
   return str.split('').reverse().join('');
 };
 
-// 2.
+// 2
 const reverse = (str) => {
   return str.split('').reduce((prev, curr) => curr + prev, '');
 };
 
-// 3.
+// 3
 const reverse = (str) => {
   let reversed = '';
 
@@ -19,7 +19,7 @@ const reverse = (str) => {
   return reversed;
 };
 
-// 4.
+// 4
 const reverse = (str) => {
   const arr = str.split('');
   let newArray = [];
