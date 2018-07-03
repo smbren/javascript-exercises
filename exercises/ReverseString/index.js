@@ -11,14 +11,7 @@
  */
 
 const reverse = (str) => {
-  const arr = str.split('');
-  let newArray = [];
 
-  for (let index = arr.length - 1; index >= 0; index--) {
-    newArray.push(arr[index]);
-  };
-
-  return newArray.join('');
 };
 
 module.exports = reverse;
