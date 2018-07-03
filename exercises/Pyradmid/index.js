@@ -20,4 +20,4 @@ const pyramid = (n) => {
 
 }
 
-module.exports = pyradmid;
+module.exports = pyramid;
