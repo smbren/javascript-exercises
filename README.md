@@ -42,7 +42,7 @@ Series of interesting JavaScript exercises that I solve during my education. For
 Clone the repo.
 
 ```bash
-$ git clone https://github.com/appalaszynski/switch-gulp-to-webpack.git
+$ git clone https://github.com/appalaszynski/javascript-exercises.git
 ```
 
 Install Jest globally.
