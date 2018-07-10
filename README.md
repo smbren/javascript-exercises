@@ -89,7 +89,7 @@ You can also run Jest in watch mode by adding `--watch` flag.
 - [Fib](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/Fib/index.js)
 - [Matrix Spiral](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/MatrixSpiral/index.js)
 - [Max Char](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/MaxChar/index.js)
-- [Pyradmid](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/Pyradmin/index.js)
+- [Pyramid](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/Pyramid/index.js)
 - [Queue](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/Queue/index.js)
 - [Queue from Stacks](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/QueueFromStacks/index.js)
 - [Stack](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/Stack/index.js)
