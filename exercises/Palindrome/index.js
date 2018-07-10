@@ -13,7 +13,7 @@
  * palindrome("abcdefg") === false
  */
 
-const palindrome = (str) => {
+function palindrome(str) {
   
 }
 

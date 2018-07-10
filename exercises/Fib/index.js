@@ -11,7 +11,7 @@
  * fib(15) === 610
  */
 
-const fib = (n) => {
+function fib(n) {
 
 }
 

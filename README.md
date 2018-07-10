@@ -1,22 +1,23 @@
 <div align="center">
   <a href="https://github.com/appalaszynski/javascript-exercises">
-    <img src="https://user-images.githubusercontent.com/35331661/37843001-f44658a4-2ec3-11e8-9779-974c4a0bac62.png" width="116px">
+    <img src="https://user-images.githubusercontent.com/35331661/42527869-27757618-847a-11e8-92f0-ab671ea0d200.png" height="125px">
   </a>
-  <br>
   <h1>JavaScript Exercises</h1>
   <p>
-    <em>Collection of JavaScript exercises great for preparing for an interview</em>
+    <em>Collection of JavaScript Exercises and Coding Challenges</em>
   </p>
   <p>
+    <a href="https://github.com/appalaszynski/javascript-exercises/stargazers">
+      <img src="https://img.shields.io/github/stars/appalaszynski/javascript-exercises.svg" alt="Stars" /> 
+    </a>
     <a href="https://github.com/appalaszynski/javascript-exercises/commits/master">
-      <img src="https://img.shields.io/github/last-commit/appalaszynski/javascript-exercises.svg" />
+      <img src="https://img.shields.io/github/last-commit/appalaszynski/javascript-exercises.svg" alt="Last Commit" />
     </a>
   </p>
   <br>
-  <br>
 </div>
 
-Series of interesting JavaScript exercises that I solve during my education. For each exercise I included several possible solutions. Thanks to [Jest](https://facebook.github.io/jest/) test framework You can easily check the correctness of Your solution.
+Series of interesting JavaScript exercises that I solved during my education. For each exercise I've tried to include several possible solutions. Thanks to [Jest](https://facebook.github.io/jest/) test framework you can easily check the correctness of your solution.
 
 ---
 
@@ -80,7 +81,7 @@ You can also run Jest in watch mode by adding `--watch` flag.
 - [Reverse String](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/ReverseString/index.js)
 - [Palindrome](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/Palindrome/index.js)
 - [Reverse Integer](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/ReverseInteger/index.js)
-- [Even Odd](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/EvenOdd/index.js)
+- [Is Even](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/IsEven/index.js)
 - [Max Char](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/MaxChar/index.js)
 - [Anagrams](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/Anagrams/index.js)
 - [FizzBuzz](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/FizzBuzz/index.js)

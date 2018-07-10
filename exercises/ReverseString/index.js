@@ -10,7 +10,7 @@
  * reverse('Greetings!') === '!sgniteerG'
  */
 
-const reverse = (str) => {
+function reverse(str) {
 
 };
 

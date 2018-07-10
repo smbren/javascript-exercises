@@ -18,7 +18,7 @@
  *              [10,  9,  8, 7]]
  */
 
-const matrix = (n) => {
+function matrix(n) {
 
 }
 

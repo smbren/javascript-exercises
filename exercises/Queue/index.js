@@ -12,7 +12,7 @@
  * q.remove(); // returns 1
  */
 
-function Queue() {
+class Queue {
 
 }
 

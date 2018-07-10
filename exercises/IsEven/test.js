@@ -1,6 +1,6 @@
 const isEven = require('./index');
 
-describe('isEven function', () => {
+describe('IsEven function', () => {
   test('should exists', () => {
     expect(isEven).toBeDefined();
     expect(typeof isEven).toEqual('function');

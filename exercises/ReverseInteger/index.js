@@ -12,7 +12,7 @@
  * reverseInt(-90) === -9
  */
 
-const reverse = (int) => {
+function reverse(int) {
   
 }
 

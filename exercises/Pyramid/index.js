@@ -16,7 +16,7 @@
  *              '#####'
  */
 
-const pyramid = (n) => {
+function pyramid(n) {
 
 }
 
