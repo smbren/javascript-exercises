@@ -5,14 +5,14 @@ describe('Queue class', () => {
     expect(Queue).toBeDefined();
     expect(typeof Queue.prototype.constructor).toEqual('function');
   });
-  
+
   test('should be able to add elements to a queue', () => {
     const q = new Queue();
     expect(() => {
       q.add(1);
     }).not.toThrow();
   });
-  
+
   test('should be able to remove elements from a queue', () => {
     const q = new Queue();
     expect(() => {
@@ -20,7 +20,7 @@ describe('Queue class', () => {
       q.remove();
     }).not.toThrow();
   });
-  
+
   test('should have maintained order of its elements', () => {
     const q = new Queue();
     q.add(1);

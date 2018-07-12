@@ -13,16 +13,16 @@ describe('FizzBuzz function', () => {
     expect(fizzBuzz).toBeDefined();
     expect(typeof fizzBuzz).toEqual('function');
   });
-  
+
   test('should prints out 5 statements when called with 5', () => {
     fizzBuzz(5);
-  
+
     expect(console.log.mock.calls.length).toEqual(5);
   });
-  
+
   test('should prints out the correct values', () => {
     fizzBuzz(15);
-  
+
     expect(console.log.mock.calls[0][0]).toEqual(1);
     expect(console.log.mock.calls[1][0]).toEqual(2);
     expect(console.log.mock.calls[2][0]).toEqual('fizz');
@@ -40,5 +40,3 @@ describe('FizzBuzz function', () => {
     expect(console.log.mock.calls[14][0]).toEqual('fizzbuzz');
   });
 });
-
-

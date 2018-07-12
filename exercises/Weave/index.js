@@ -1,6 +1,6 @@
 /**
  * Weave
- * 
+ *
  * Implement the 'weave' function.  Weave
  * receives two queues as arguments and combines the
  * contents of each into a new, third queue.
@@ -10,7 +10,7 @@
  * 'undefined' into the new one.
  * *Do not* access the array inside of any queue, only
  * use the 'add', 'remove', and 'peek' functions.
- * 
+ *
  * Examples:
  * const queueOne = new Queue();
  * queueOne.add(1);
@@ -28,7 +28,7 @@
 const Queue = require('./queue');
 
 function weave(sourceOne, sourceTwo) {
-  
+
 }
 
 module.exports = weave;

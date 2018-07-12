@@ -17,24 +17,16 @@
   <br>
 </div>
 
-Series of interesting JavaScript exercises that I solved during my education. For each exercise I've tried to include several possible solutions. Thanks to [Jest](https://facebook.github.io/jest/) test framework you can easily check the correctness of your solution.
+Series of interesting JavaScript exercises that I solved during my education. For each exercise I've tried to include several possible solutions. Thanks to [Jest](https://jestjs.io/) test framework you can easily check the correctness of your solution.
 
 ---
 
 ## Table of Contents
 
-- [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Exercises](#exercises)
-
----
-
-## Prerequisites
-
-* [Node.js](https://nodejs.org)
-* [NPM](https://github.com/npm/npm)
-* [Jest](https://facebook.github.io/jest/)
+- [Contributing](#contributing)
 
 ---
 
@@ -58,13 +50,13 @@ $ npm install -g jest
 
 Each exercise directory contains `index.js` file with exercise contents and `test.js` file with tests validating solution correctness.
 
-### Running all tests
+### Running All Tests
 
 ```bash
 $ jest
 ```
 
-### Running tests for specific exercise
+### Running Tests for Specific Exercise
 
 To run test for specific exercise simply add its directory path to `jest` command, e.g.
 
@@ -81,6 +73,7 @@ You can also run Jest in watch mode by adding `--watch` flag.
 - [Reverse String](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/ReverseString/index.js)
 - [Palindrome](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/Palindrome/index.js)
 - [Reverse Integer](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/ReverseInteger/index.js)
+- [Longest Word](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/LongestWord/index.js)
 - [Is Even](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/IsEven/index.js)
 - [Max Char](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/MaxChar/index.js)
 - [Anagrams](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/Anagrams/index.js)
@@ -92,10 +85,14 @@ You can also run Jest in watch mode by adding `--watch` flag.
 - [Max Char](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/MaxChar/index.js)
 - [Pyramid](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/Pyramid/index.js)
 - [Queue](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/Queue/index.js)
-- [Queue from Stacks](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/QueueFromStacks/index.js)
 - [Stack](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/Stack/index.js)
+- [Queue from Stacks](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/QueueFromStacks/index.js)
 - [Steps](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/Steps/index.js)
 - [Vowels](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/Vowels/index.js)
 - [Weave](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/Weave/index.js)
 
+---
 
+## Contributing
+
+All contributions and suggestions are welcome! For suggested improvements, please create an [issue](https://github.com/appalaszynski/javascript-exercises/issues). For direct contributions, please [fork](https://github.com/appalaszynski/javascript-exercises/fork) the repository, create your feature branch, commit your changes, push commits to the branch and create a new [pull request](https://github.com/appalaszynski/javascript-exercises/pulls).

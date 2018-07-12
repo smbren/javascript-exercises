@@ -5,7 +5,7 @@ describe('MaxChar function', () => {
     expect(maxChar).toBeDefined();
     expect(typeof maxChar).toEqual('function');
   });
-  
+
   test('should find the most commonly used char in passed string', () => {
     expect(maxChar('a')).toEqual('a');
     expect(maxChar('abcdefghijklmnaaaaa')).toEqual('a');

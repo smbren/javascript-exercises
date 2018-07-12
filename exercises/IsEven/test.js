@@ -5,24 +5,12 @@ describe('IsEven function', () => {
     expect(isEven).toBeDefined();
     expect(typeof isEven).toEqual('function');
   });
-  
-  test('234', () => {
+
+  test('should return true if passed number is even and false if is not', () => {
     expect(isEven(234)).toBeTruthy();
-  });
-  
-  test('-2', () => {
-    expect(isEven(-2)).toBeTruthy();
-  });
-  
-  test('33', () => {
     expect(isEven(33)).toBeFalsy();
-  });
-  
-  test('3092348903.28409238409', () => {
+    expect(isEven(-2)).toBeTruthy();
+    expect(isEven(0.15)).toBeTruthy();
     expect(isEven(3092348903.28409238409)).toBeFalsy();
-  });
-  
-  test('.15', () => {
-    expect(isEven(.15)).toBeTruthy();
   });
 });
