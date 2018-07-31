@@ -41,3 +41,7 @@ function longestWord(sen) {
 
   return newArr[0];
 };
+
+// 4
+const r = /([a-zA-Z]*)/g
+const longestWord = s => s.match(r).reduce((p, n) => n.length <= p.length ? p : n)
